@@ -1,6 +1,6 @@
 import './App.css'
-import Header from './components/Header'
-import Entry from './components/Entry'
+import Header from './components/Header/Header'
+import Entry from './components/Entry/Entry'
 
 //Data
 import data from "./data";

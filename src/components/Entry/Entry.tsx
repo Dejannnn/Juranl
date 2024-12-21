@@ -1,3 +1,5 @@
+import "./Entry.css"
+
 type Entry = {
     img: {
         src: string,
